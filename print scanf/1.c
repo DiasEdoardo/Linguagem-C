@@ -6,9 +6,6 @@ int main (){
         int opcao;
         do
         {
-            /* code */
-        
-        
         printf("Qual numero voce deseja calcular?");
         scanf("%f",&x);
         printf("Qual numero voce deseja calcular?");
