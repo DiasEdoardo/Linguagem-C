@@ -9,7 +9,7 @@
             {
                 printf("O seu voto eh facultativo !");
             }
-            if (idade >=18 && idade <=70)
+                if (idade >=18 && idade <=70)
             {
                 printf("O seu voto eh obrigatorio!");
             }
