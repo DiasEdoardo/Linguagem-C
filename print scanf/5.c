@@ -4,11 +4,11 @@
         int meses,anos,dias,idias,imeses,diastotal;
 
 
-        printf("Qual a sua idade em anos?");
+        printf("Qual a sua idade em anos?\n");
         scanf("%i",&anos);
-        printf("E quantos meses?");
+        printf("E quantos meses?\n");
         scanf("%i",&meses);  
-        printf("E quantos dias?");
+        printf("E quantos dias?\n");
         scanf("%i",&dias);
 
         imeses=anos*365; // calcular anos em dias
