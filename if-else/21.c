@@ -39,7 +39,9 @@
         else{
             printf("opcao incorreta, tente novamente");
         }
-        
+        system("pause");
+
+        return 0;
         
 
 
