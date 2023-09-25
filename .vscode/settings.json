@@ -1,3 +1,7 @@
 {
-    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\cpp.exe"
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\cpp.exe",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
