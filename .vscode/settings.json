@@ -3,6 +3,7 @@
     "cmake.configureOnOpen": true,
     "files.associations": {
         "stdio.h": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "algorithm": "c"
     }
 }
