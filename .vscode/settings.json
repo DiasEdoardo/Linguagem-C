@@ -4,6 +4,9 @@
     "files.associations": {
         "stdio.h": "c",
         "iostream": "cpp",
-        "algorithm": "c"
+        "algorithm": "c",
+        "random": "c",
+        "editor.fontFamily":"JetBrains Mono",
+        "editor.renderLineHighlight": "gutter"
     }
 }
